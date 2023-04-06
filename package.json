@@ -1,0 +1,25 @@
+{
+  "name": "battleship-game",
+  "version": "1.0.0",
+  "description": "An implementation fo the classic battleship-game using Node.js, Express & Socket.io",
+  "main": "server.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "keywords": [
+    "battleship",
+    "game",
+    "websockets",
+    "express",
+    "nodejs",
+    "node"
+  ],
+  "author": "Shivam Mishra",
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.4.0"
+  }
+}
